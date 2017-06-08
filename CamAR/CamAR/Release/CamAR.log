@@ -1,0 +1,23 @@
+﻿  AR.cpp
+..\..\CameraAR\CameraAR\AR.cpp(109): warning C4101: 'ff': ローカル変数は 1 度も使われていません。
+..\..\CameraAR\CameraAR\AR.cpp(251): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  ..\..\CameraAR\CameraAR\AR.cpp(251): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+..\..\CameraAR\CameraAR\AR.cpp(818): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+..\..\CameraAR\CameraAR\AR.cpp(820): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+..\..\CameraAR\CameraAR\AR.cpp(836): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+..\..\CameraAR\CameraAR\AR.cpp(838): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+..\..\CameraAR\CameraAR\AR.cpp(860): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+..\..\CameraAR\CameraAR\AR.cpp(863): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+..\..\CameraAR\CameraAR\AR.cpp(864): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+..\..\CameraAR\CameraAR\AR.cpp(865): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+..\..\CameraAR\CameraAR\AR.cpp(868): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+..\..\CameraAR\CameraAR\AR.cpp(869): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+..\..\CameraAR\CameraAR\AR.cpp(870): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+LINK : warning LNK4098: defaultlib 'LIBCMT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+  コード生成しています。
+  1 of 20 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  CamAR.vcxproj -> C:\Users\健太郎\Documents\Visual Studio 2015\Projects\CamAR\Release\CamAR.exe
+  CamAR.vcxproj -> C:\Users\健太郎\Documents\Visual Studio 2015\Projects\CamAR\Release\CamAR.pdb (Full PDB)

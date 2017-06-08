@@ -1,0 +1,28 @@
+﻿  AR.cpp
+d:\おつけん\製作物\camar\camar\ar.cpp(109): warning C4101: 'ff': ローカル変数は 1 度も使われていません。
+d:\おつけん\製作物\camar\camar\ar.cpp(230): error C2660: 'argMainLoop': 関数に 3 個の引数を指定できません。
+d:\おつけん\製作物\camar\camar\ar.cpp(250): error C3861: 'arVideoInqSize': 識別子が見つかりませんでした
+d:\おつけん\製作物\camar\camar\ar.cpp(262): error C3861: 'arInitCparam': 識別子が見つかりませんでした
+d:\おつけん\製作物\camar\camar\ar.cpp(268): error C3861: 'arLoadPatt': 識別子が見つかりませんでした
+d:\おつけん\製作物\camar\camar\ar.cpp(276): error C3861: 'argInit': 識別子が見つかりませんでした
+d:\おつけん\製作物\camar\camar\ar.cpp(251): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  d:\おつけん\製作物\camar\camar\ar.cpp(251): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+d:\おつけん\製作物\camar\camar\ar.cpp(302): error C2660: 'argDrawMode2D': 関数に 0 個の引数を指定できません。
+d:\おつけん\製作物\camar\camar\ar.cpp(303): error C3861: 'argDispImage': 識別子が見つかりませんでした
+d:\おつけん\製作物\camar\camar\ar.cpp(306): error C2660: 'arDetectMarker': 関数に 4 個の引数を指定できません。
+d:\おつけん\製作物\camar\camar\ar.cpp(312): error C3861: 'arVideoCapNext': 識別子が見つかりませんでした
+d:\おつけん\製作物\camar\camar\ar.cpp(315): error C2660: 'argDrawMode3D': 関数に 0 個の引数を指定できません。
+d:\おつけん\製作物\camar\camar\ar.cpp(316): error C3861: 'argDraw3dCamera': 識別子が見つかりませんでした
+d:\おつけん\製作物\camar\camar\ar.cpp(340): error C2660: 'arGetTransMat': 関数に 4 個の引数を指定できません。
+d:\おつけん\製作物\camar\camar\ar.cpp(344): error C3861: 'arGetTransMatCont': 識別子が見つかりませんでした
+d:\おつけん\製作物\camar\camar\ar.cpp(818): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+d:\おつけん\製作物\camar\camar\ar.cpp(820): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+d:\おつけん\製作物\camar\camar\ar.cpp(836): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+d:\おつけん\製作物\camar\camar\ar.cpp(838): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+d:\おつけん\製作物\camar\camar\ar.cpp(860): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+d:\おつけん\製作物\camar\camar\ar.cpp(863): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+d:\おつけん\製作物\camar\camar\ar.cpp(864): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+d:\おつけん\製作物\camar\camar\ar.cpp(865): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+d:\おつけん\製作物\camar\camar\ar.cpp(868): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+d:\おつけん\製作物\camar\camar\ar.cpp(869): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+d:\おつけん\製作物\camar\camar\ar.cpp(870): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
